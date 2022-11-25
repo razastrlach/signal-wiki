@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
