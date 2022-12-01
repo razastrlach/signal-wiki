@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+fix export tensorrt with dynamic size
