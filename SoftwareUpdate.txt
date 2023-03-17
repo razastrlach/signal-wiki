@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Update CI.md with CI links (#8786)
