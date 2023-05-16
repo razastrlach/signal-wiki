@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Add horizontal Mosaic3 augmentation (#6898)
