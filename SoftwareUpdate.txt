@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
