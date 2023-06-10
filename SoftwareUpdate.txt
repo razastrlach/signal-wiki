@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
