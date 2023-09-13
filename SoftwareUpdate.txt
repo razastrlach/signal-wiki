@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Add distance calculation feature in vision-eye (#8616)
