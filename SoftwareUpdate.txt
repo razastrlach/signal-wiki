@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Add simple-utilities.md Docs page (#8269)
