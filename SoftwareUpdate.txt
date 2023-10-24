@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+New HUB Cloud Training docs page (#8174)
