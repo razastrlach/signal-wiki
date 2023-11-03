@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Fix PNNX ubuntu -> linux bug (#7050)
