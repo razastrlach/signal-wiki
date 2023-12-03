@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Updating a typo on paddlepaddle.md (#9108)
