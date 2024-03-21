@@ -1,1 +1,1 @@
-ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
