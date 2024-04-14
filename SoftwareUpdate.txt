@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
