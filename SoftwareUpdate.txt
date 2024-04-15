@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
