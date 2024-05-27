@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Add missing single-line docstrings (#8362)
