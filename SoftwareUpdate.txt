@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
