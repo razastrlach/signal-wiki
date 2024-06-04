@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+Allow Annotator PIL.Image inputs (#8397)
