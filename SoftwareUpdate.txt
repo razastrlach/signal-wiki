@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Elaborate Train and Predict mode docs arguments (#8137)
